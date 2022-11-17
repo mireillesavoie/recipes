@@ -1,6 +1,6 @@
 # Ingredients
 - avocado
-- lemon
+-no  lemon
 - salt
 # Instructions
 
